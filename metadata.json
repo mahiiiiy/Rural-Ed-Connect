@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Rural Ed Connect",
+  "description": "An ultra-low bandwidth, audio-first online classroom app designed for rural and remote students with intermittent internet access, enabling them to join live classes and download lessons for offline learning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
